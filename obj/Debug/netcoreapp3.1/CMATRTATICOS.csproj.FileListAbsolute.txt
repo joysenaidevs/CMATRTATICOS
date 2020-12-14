@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\CMATRTATICOS\bin\Debug\netcoreapp3.1\CMATRTATICOS.exe
+C:\Users\DEV\Desktop\CMATRTATICOS\bin\Debug\netcoreapp3.1\CMATRTATICOS.deps.json
+C:\Users\DEV\Desktop\CMATRTATICOS\bin\Debug\netcoreapp3.1\CMATRTATICOS.runtimeconfig.json
+C:\Users\DEV\Desktop\CMATRTATICOS\bin\Debug\netcoreapp3.1\CMATRTATICOS.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\CMATRTATICOS\bin\Debug\netcoreapp3.1\CMATRTATICOS.dll
+C:\Users\DEV\Desktop\CMATRTATICOS\bin\Debug\netcoreapp3.1\CMATRTATICOS.pdb
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.AssemblyInfo.cs
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.dll
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.pdb
+C:\Users\DEV\Desktop\CMATRTATICOS\obj\Debug\netcoreapp3.1\CMATRTATICOS.genruntimeconfig.cache
